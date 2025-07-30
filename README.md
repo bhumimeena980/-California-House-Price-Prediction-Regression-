@@ -1,4 +1,4 @@
-California House Price Prediction (Regression)
+# California House Price Prediction (Regression)
 
 This project predicts median house prices in California using features like population, income, and housing attributes. It uses a **Neural Network** (built with TensorFlow/Keras) trained on the popular `fetch_california_housing` dataset from Scikit-learn.
 
@@ -12,7 +12,7 @@ This project predicts median house prices in California using features like popu
 - **Libraries**: `TensorFlow`, `scikit-learn`, `matplotlib`,`seaborn`
 
  
- ## 📈 Model Summary
+ ## Model Summary
 
 - **Architecture**:
   - Input Layer: 8 features
